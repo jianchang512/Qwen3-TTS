@@ -24,7 +24,7 @@ import librosa
 import numpy as np
 import soundfile as sf
 import torch
-from transformers import AutoConfig, AutoModel, AutoProcessor
+from transformers4576 import AutoConfig, AutoModel, AutoProcessor
 
 from ..core.models import Qwen3TTSConfig, Qwen3TTSForConditionalGeneration, Qwen3TTSProcessor
 

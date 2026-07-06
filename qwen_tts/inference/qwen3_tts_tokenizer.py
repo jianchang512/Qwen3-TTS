@@ -24,7 +24,7 @@ import numpy as np
 import soundfile as sf
 import torch
 from torch.nn.utils.rnn import pad_sequence
-from transformers import AutoConfig, AutoFeatureExtractor, AutoModel
+from transformers4576 import AutoConfig, AutoFeatureExtractor, AutoModel
 
 from ..core import (
     Qwen3TTSTokenizerV1Config,

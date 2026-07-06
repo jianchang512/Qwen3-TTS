@@ -14,8 +14,8 @@
 # limitations under the License.
 """Qwen3TTSTokenizerV1 model configuration"""
 
-from transformers.configuration_utils import PretrainedConfig
-from transformers.utils import logging
+from transformers4576.configuration_utils import PretrainedConfig
+from transformers4576.utils import logging
 
 
 logger = logging.get_logger(__name__)
