@@ -1,5 +1,7 @@
 # Qwen3-TTS
 
+> 该项目依赖 transformers==4.57.6,而 omnivoice 依赖 transformers>=5.3.0, 共存同个项目时，依赖冲突难以处理，因此fork修改，单独依赖 [transformers4576](https://github.com/jianchang512/transformers4576)
+
 <br>
 
 <p align="center">
